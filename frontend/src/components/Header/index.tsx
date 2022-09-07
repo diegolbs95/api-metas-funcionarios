@@ -7,10 +7,10 @@ function App() {
     <header>
         <div className="mtfuncionario-logo-container">
             <img src={logo} alt="MetaFuncionario" />
-            <h1>DSMeta</h1>
+            <h1>Vendas Funcionario</h1>
             <p>
-             Desenvolvido por
-            <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+             Desenvolvido por 
+            <a href="https://github.com/diegolbs95"> @Diego Luis</a>
             </p>
         </div>
     </header>
