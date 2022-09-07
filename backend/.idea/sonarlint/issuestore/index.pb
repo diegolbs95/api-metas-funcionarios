@@ -1,0 +1,5 @@
+
+A
+vdmeta/.gitignore,6\b\6b970eedea8f54460f53758067b8c7617117c037
+>
+vdmeta/pom.xml,4\8\48da52761079cfecec869346201952d872129233
